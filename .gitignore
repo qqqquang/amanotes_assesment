@@ -1,6 +1,9 @@
 # Virtual environment
 .venv/
 
+# Generated output
+part2/daily_user_metrics.csv
+
 # Analysis scripts (not part of submission)
 analyze.py
 analyze_session.py
