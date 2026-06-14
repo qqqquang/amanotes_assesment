@@ -5,6 +5,7 @@
 **Python 3.12** (tested on 3.12.2)
 
 ```bash
+cd part2
 python -m venv .venv
 .venv/Scripts/pip install -r requirements.txt   # Windows
 # or: .venv/bin/pip install -r requirements.txt  # Mac/Linux
@@ -12,7 +13,7 @@ python -m venv .venv
 # or: .venv/bin/python main.py                   # Mac/Linux
 ```
 
-Output: `daily_user_metrics.csv`
+Output: `daily_user_metrics.csv` (generated in the `part2/` folder)
 
 ## What I built
 
