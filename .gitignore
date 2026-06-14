@@ -4,6 +4,9 @@
 # Generated output
 part2/daily_user_metrics.csv
 
+# Test notebook
+part2/test.ipynb
+
 # Analysis scripts (not part of submission)
 analyze.py
 analyze_session.py
