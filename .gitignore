@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+
+# Analysis scripts (not part of submission)
+analyze.py
+analyze_session.py
+
+# Original case study files (not submission)
+case_study.md
+June.Amanotes {Data Engineer} Case Study.pdf
+
+# Part 1 essay markdown (docx is the submission)
+part1_essay.md
